@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Elif Baykara</h1>
-<h3 align="center">A passionate backend developer from Türkiye</h3>
+
 
 - 📫 How to reach me **elifbaykkara@gmail.com**
 
